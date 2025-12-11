@@ -1,1 +1,2 @@
-# informatica25-26
+# Proiecte, pregatire de teza, etc. (C++)
+
